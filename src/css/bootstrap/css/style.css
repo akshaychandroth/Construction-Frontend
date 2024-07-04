@@ -1,0 +1,73 @@
+body{
+    box-sizing: border-box;
+    background-image: url('../../../img/solidbg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    overflow-x: hidden;
+    
+}.home-body{
+    box-sizing: border-box;
+    background-image: url('../../../img/bg1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow-x: hidden;
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+  }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+h3{
+    color: #44504e;
+}
+
+body, html{
+    margin:0;
+    padding:0;
+}
+.page-margin{
+    margin-top: -50px;
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.8);
+    border-color: #28cebd;
+}
+.font-treb{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2e6a6a;
+}
+.font-p{
+    font-family: Cambria, serif;
+    letter-spacing: 0.05rem;
+    font-size: 1.3rem;
+    color: #2e6a6a;
+}
+.darkclr{
+    color: #122624;
+    background-color: #122624;
+}
+
+/* .form-control,.form-select{
+    color:#48A6A6;
+} */
+.mybtn{
+    background-color: white;
+
+}
+.mybtn:hover{
+    background-color: #48A6A6;
+    color: white;
+}
+.mybtn-link{
+    color: rgb(179, 206, 241);
+    text-decoration: underline;
+}
